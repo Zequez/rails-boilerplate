@@ -39,6 +39,7 @@ gem 'haml-rails'
 
 # Use angular JS for client side framework, disable for non-client-heavy apps
 #gem 'angularjs-rails'
+#gem 'angular-rails-templates'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
